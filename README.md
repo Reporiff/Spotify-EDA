@@ -18,3 +18,15 @@ To refine playlist curation using data-driven insights into the popularity and d
 - **Enhanced Curation:** Curated playlists that better reflect the distribution and popularity of genres and subgenres represented in Spotify's dataset.
 - **Strategic Diversity:** Strategies that consider the relationship between genre/subgenre diversity within playlists and track popularity to potentially improve user engagement.
 - **Data-Driven Personalization:** Utilizing the understanding of popular audio feature profiles to create playlists that align more closely with the prevalent listener preferences.
+
+### Data Collection
+The data comes from Spotify via the spotifyr package, designed to facilitate access to Spotify's API for personal or general metadata around songs.
+
+Shoutout to Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff for creating the package, and to Kaylin Pavlik for her exploration of classifying songs by genres using audio features.
+
+### Data Dictionary
+A comprehensive list of variables included in spotify_songs.csv provides insights into track IDs, names, artists, popularity, and more, with a focus on the audio features that can help us understand user preferences and predict song success.
+
+Please refer to the [Data_Readme.md](https://github.com/Reporiff/Spotify-EDA/blob/main/data_readme.md) for detailed descriptions of each variable, including danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, and duration.
+
+
