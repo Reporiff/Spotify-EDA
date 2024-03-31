@@ -27,6 +27,6 @@ Shoutout to Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff for crea
 ### Data Dictionary
 A comprehensive list of variables included in spotify_songs.csv provides insights into track IDs, names, artists, popularity, and more, with a focus on the audio features that can help us understand user preferences and predict song success.
 
-Please refer to the [DATA_README.md](https://github.com/Reporiff/Spotify-EDA/blob/main/data_readme.md) for detailed descriptions of each variable, including danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, and duration.
+Please refer to the [DATA_README.md](https://github.com/Reporiff/Spotify-EDA/blob/main/DATA_README.md) for detailed descriptions of each variable, including danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, and duration.
 
 
