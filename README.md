@@ -1,6 +1,6 @@
-Spotify Songs & Personalisation Analysis 
+### Spotify Songs & Personalisation Analysis ###
 
-Background:
+## Background: 
 Spotify offers an extensive collection of tracks, and while this variety is a strength, there's a need to curate playlists more effectively to maintain and enhance user engagement and retention.
 
 The Problem:
